@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jz5K5aZlaZME4N36xTRnZ4HpydUWwkMl0dbCnbJp4IF/uR+pdteF5L2j061HZnh4u6QEAeMlaO6kxF59bKguWA==",
+  "dgSpecHash": "Bp5akYVpllsg+Zr/Ixh2yDLadGh7kf4ndiR/OFlDkzsyVOhYIIdYkpATUO8TBzCE6wbt3iGwZ8O4vZqaW25S0A==",
   "success": true,
   "projectFilePath": "D:\\Praktek Smstr 4\\KPL\\modul8_1302210055\\modul8_1302210055\\modul8_1302210055.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
